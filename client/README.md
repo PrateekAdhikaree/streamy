@@ -3,7 +3,8 @@
 ## Tools Used
 
 - react-js [[Ref]](https://reactjs.org/docs/getting-started.html)
-- redux, react-redux
+- redux, react-router-dom
+- Semantics UI (_for CSS_) [[Ref]](https://semantic-ui.com/introduction/getting-started.html)
 
 ## Running the project
 
@@ -27,33 +28,44 @@ You will also see any lint errors in the console.
 
 ## Mockup
 
-### Index
+### Index (StreamList Component)
 
 ![index-page](images/1-index.jpg 'Index')
 
-### Show Stream
+### Show Stream (StreamShow Component)
 
 ![show-stream](images/2-show-stream.jpg 'Show stream')
 
-### Index - Logged In
+### Index (StreamList Component)
 
 ![logged-in-index](images/3-index-logged-in.jpg 'Index - Logged in')
 
-### Create Stream
+### Create Stream (StreamCreate Component)
 
 ![create-stream](images/4-create-stream.jpg 'Create stream')
 
-### Edit Stream
+### Edit Stream (StreamEdit Component)
 
 ![edit-stream](images/5-edit-stream.jpg 'Edit stream')
 
-### Delete Stream
+### Delete Stream (StreamDelete Component)
 
 ![delete-stream](images/6-delete-stream.jpg 'Delete stream')
 
 # TODO: Update below
 
 ## React Components
+
+**main file**: [index.js](src/index.js)
+
+- [App](src/components/App.js)
+- [Header](src/components/Header.js)
+  - streams
+    - [StreamList](src/components/streams/StreamList.js)
+    - [StreamCreate](src/components/streams/StreamCreate.js)
+    - [StreamShow](src/components/streams/StreamShow.js)
+    - [StreamEdit](src/components/streams/StreamEdit.js)
+    - [StreamDelete](src/components/streams/StreamDelete.js)
 
 ## Redux Components
 
