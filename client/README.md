@@ -61,6 +61,7 @@ You will also see any lint errors in the console.
 
 - [App](src/components/App.js)
   - [Header](src/components/Header.js)
+  - [GoogleAuth](src/components/GoogleAuth.js)
   - streams
     - [StreamList](src/components/streams/StreamList.js)
     - [StreamCreate](src/components/streams/StreamCreate.js)
