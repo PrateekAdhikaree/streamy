@@ -1,4 +1,4 @@
-# Live Streaming
+# Streamy - Live Streaming
 
 ## High Level System Architecture
 
@@ -6,6 +6,13 @@
 
 ## Components
 
-1. React Server
-2. RTMP Server
-3. Web Server
+### [React Server](client/)
+
+- react, redux
+- Google API [Ref](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in)
+
+[Click here for more details](client/)
+
+### RTMP Server
+
+### Web Server

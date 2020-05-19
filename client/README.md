@@ -4,6 +4,7 @@
 
 - react-js [[Ref]](https://reactjs.org/docs/getting-started.html)
 - redux, react-router-dom
+- Google API [Ref](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in) [Script Location](https://apis.google.com/js/api.js)
 - Semantics UI (_for CSS_) [[Ref]](https://semantic-ui.com/introduction/getting-started.html)
 
 ## Running the project
@@ -59,7 +60,7 @@ You will also see any lint errors in the console.
 **main file**: [index.js](src/index.js)
 
 - [App](src/components/App.js)
-- [Header](src/components/Header.js)
+  - [Header](src/components/Header.js)
   - streams
     - [StreamList](src/components/streams/StreamList.js)
     - [StreamCreate](src/components/streams/StreamCreate.js)
