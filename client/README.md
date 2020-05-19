@@ -16,7 +16,7 @@
 
 ![edit-stream](images/5-edit-stream.jpg 'Edit stream')
 
-![delete-stream](images/6-show-stream.jpg 'Delete stream')
+![delete-stream](images/6-delete-stream.jpg 'Delete stream')
 
 ## Tools Used
 
