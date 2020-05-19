@@ -73,6 +73,10 @@ You will also see any lint errors in the console.
 
 ### Actions
 
+- [index](src/actions/index.js)
+
 ### Reducers
 
-## Usage
+- [index](src/reducers/index.js)
+
+## User Flow
