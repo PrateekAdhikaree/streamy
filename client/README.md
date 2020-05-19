@@ -1,22 +1,4 @@
-# Intro to Redux-Thunk - Async Action Creators
-
-## User States
-
-![user-states](images/user-states.jpg 'user-states')
-
-## Mockup
-
-![index-page](images/1-index.jpg 'Index')
-
-![show-stream](images/2-show-stream.jpg 'Show stream')
-
-![logged-in-index](images/3-index-logged-in.jpg 'Index - Logged in')
-
-![create-stream](images/4-create-stream.jpg 'Create stream')
-
-![edit-stream](images/5-edit-stream.jpg 'Edit stream')
-
-![delete-stream](images/6-delete-stream.jpg 'Delete stream')
+# Streaming service React client
 
 ## Tools Used
 
@@ -38,6 +20,36 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## User States
+
+![user-states](images/user-states.jpg 'user-states')
+
+## Mockup
+
+### Index
+
+![index-page](images/1-index.jpg 'Index')
+
+### Show Stream
+
+![show-stream](images/2-show-stream.jpg 'Show stream')
+
+### Index - Logged In
+
+![logged-in-index](images/3-index-logged-in.jpg 'Index - Logged in')
+
+### Create Stream
+
+![create-stream](images/4-create-stream.jpg 'Create stream')
+
+### Edit Stream
+
+![edit-stream](images/5-edit-stream.jpg 'Edit stream')
+
+### Delete Stream
+
+![delete-stream](images/6-delete-stream.jpg 'Delete stream')
 
 # TODO: Update below
 
