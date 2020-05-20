@@ -20,9 +20,9 @@ Installs the required packages in _node_modules_ directory from the _package-loc
 
 Starts the server at [http://localhost:3001](http://localhost:3001).
 
-## Store
+## Persistence
 
-Currently saves the list of "streams" in [db.json](db.json) as a JSON.
+Currently, persistence is achieved by storing the list of "streams" in [db.json](db.json) as a JSON.
 
 ## Domain
 
@@ -35,9 +35,9 @@ Has a single RESTful resource available.
 ### streams
 
 <!-- prettier-ignore -->
-GET    /streams
-GET    /streams/:id
-POST   /streams
-PUT    /streams/:id
-PATCH  /streams/:id
-DELETE /streams/:id
+GET    /streams <br>
+GET    /streams/:id <br>
+POST   /streams <br>
+PUT    /streams/:id <br>
+PATCH  /streams/:id <br>
+DELETE /streams/:id <br>
