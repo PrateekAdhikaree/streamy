@@ -3,9 +3,11 @@
 ## Tools Used
 
 - react-js [[Ref]](https://reactjs.org/docs/getting-started.html)
-- redux, react-router-dom
+- redux, react-router-dom, redux-form
 - Google API [Ref](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in) [Script Location](https://apis.google.com/js/api.js)
 - Semantics UI (_for CSS_) [[Ref]](https://semantic-ui.com/introduction/getting-started.html)
+
+Full list: [package.json](package.json)
 
 ## Running the project
 
@@ -73,7 +75,8 @@ You will also see any lint errors in the console.
 
 ### Actions
 
-- [types](src/actions/types.js)
+**List:** [types](src/actions/types.js)
+
 - [index](src/actions/index.js)
 
 ### Reducers

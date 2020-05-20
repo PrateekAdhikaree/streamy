@@ -9,7 +9,7 @@
 ### [React Server](client/)
 
 - react, redux
-- Google API [Ref](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in)
+- Google API [[Ref]](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in)
 
 [Click here for more details](client/)
 
