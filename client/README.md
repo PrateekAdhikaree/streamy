@@ -1,4 +1,6 @@
-# Streaming service React client
+# Streamy - React client
+
+This is the React Client for the live video streaming service
 
 ## Tools Used
 
@@ -54,8 +56,6 @@ You will also see any lint errors in the console.
 ### Delete Stream (StreamDelete Component)
 
 ![delete-stream](images/6-delete-stream.jpg 'Delete stream')
-
-# TODO: Update below
 
 ## React Components
 
