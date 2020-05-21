@@ -65,6 +65,7 @@ You will also see any lint errors in the console.
 - [history](src/history.js)
 - [App](src/components/App.js)
   - [Header](src/components/Header.js)
+  - [Modal](src/components/Modal.js)
   - [GoogleAuth](src/components/GoogleAuth.js)
   - streams
     - [StreamList](src/components/streams/StreamList.js)
