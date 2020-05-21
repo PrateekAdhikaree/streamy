@@ -80,12 +80,24 @@ You will also see any lint errors in the console.
 
 **List:** [types](src/actions/types.js)
 
+- SIGN_IN
+- SIGN_OUT
+
+- CREATE_STREAM
+- FETCH_STREAMS
+- FETCH_STREAM
+- DELETE_STREAM
+- EDIT_STREAM
+
+**Definitions:**
+
 - [index](src/actions/index.js)
 
 ### Reducers
 
 - [index](src/reducers/index.js)
   - [authReducer](src/reducers/authReducer.js)
+  - [streamReducer](src/reducers/streamReducer.js)
 
 ## User Flow
 
