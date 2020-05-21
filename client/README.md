@@ -32,7 +32,7 @@ You will also see any lint errors in the console.
 
 ![user-states](images/user-states.jpg 'user-states')
 
-## Mockup
+## Mockups
 
 ### Index (StreamList Component)
 
@@ -62,13 +62,15 @@ You will also see any lint errors in the console.
 
 **main file**: [index.js](src/index.js)
 
+- [history](src/history.js)
 - [App](src/components/App.js)
   - [Header](src/components/Header.js)
   - [GoogleAuth](src/components/GoogleAuth.js)
   - streams
     - [StreamList](src/components/streams/StreamList.js)
-    - [StreamCreate](src/components/streams/StreamCreate.js)
+    - [StreamForm](src/components/streams/StreamForm.js)
     - [StreamShow](src/components/streams/StreamShow.js)
+    - [StreamCreate](src/components/streams/StreamCreate.js)
     - [StreamEdit](src/components/streams/StreamEdit.js)
     - [StreamDelete](src/components/streams/StreamDelete.js)
   - apis
