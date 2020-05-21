@@ -18,7 +18,7 @@ Installs the required packages in _node_modules_ directory from the _package-loc
 
 ### `npm start`
 
-Starts the server at [http://localhost:3001](http://localhost:3001).
+Starts the server at **http://localhost:3001**
 
 ## Persistence
 

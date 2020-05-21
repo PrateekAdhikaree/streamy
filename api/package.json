@@ -1,12 +1,12 @@
 {
-  "name": "api",
+  "name": "api-json-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "json-server running to handle RESTful API requests",
+  "main": "",
   "scripts": {
     "start": "json-server -p 3001 -w db.json"
   },
-  "author": "",
+  "author": "Prateek Adhikaree",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.1"

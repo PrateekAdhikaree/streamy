@@ -1,0 +1,14 @@
+{
+  "name": "rtmp-server",
+  "version": "1.0.0",
+  "description": "RTMP Server for streaming live vide",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Prateek Adhikaree",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.1.9"
+  }
+}

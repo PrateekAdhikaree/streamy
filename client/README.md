@@ -8,6 +8,7 @@ This is the React Client for the live video streaming service
 - Google API [Ref](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in) [Script Location](https://apis.google.com/js/api.js)
 - redux, react-router-dom, redux-form
 - axios, redux-thunk
+- flv.js [[Ref]](https://www.npmjs.com/package/flv.js#getting-started)
 - Semantics UI (_for CSS_) [[Ref]](https://semantic-ui.com/introduction/getting-started.html)
 
 Full list: [package.json](package.json)

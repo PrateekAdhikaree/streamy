@@ -6,6 +6,14 @@
 
 ## Components
 
+### [Web API Server](api/)
+
+- json-server [[Ref]](https://www.npmjs.com/package/json-server)
+
+### [RTMP Server](rtmp-server/)
+
+- node-media-server [[Ref]](https://github.com/illuspas/Node-Media-Server)
+
 ### [React App](client/)
 
 - react, redux, axios
@@ -13,14 +21,15 @@
 
 [more...](client/)
 
-### RTMP Server
+## Prerequisites
 
-### [Web API Server](api/)
-
-- json-server [[Ref]](https://www.npmjs.com/package/json-server)
+- Node [Ref](https://nodejs.org/en/download/)
+- OBS [Ref](https://obsproject.com/download)
 
 ## Steps to run
 
 1. Start the [web server](api/#running-the-project)
-2. Start the [react app](client/#running-the-project)
-3. Navigate to [localhost:3000](http://localhost:3000) to access the app on a browser
+2. Start the [RTMP server](rtmp-server/#running-the-project)
+3. Starte OBS on your system and setup a scene with audio and video sources
+4. Start the [react app](client/#running-the-project)
+5. Navigate to [localhost:3000](http://localhost:3000) to access the app on a browser
