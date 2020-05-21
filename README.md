@@ -23,8 +23,8 @@
 
 ## Prerequisites
 
-- Node [Ref](https://nodejs.org/en/download/)
-- OBS [Ref](https://obsproject.com/download)
+- Node [[Ref]](https://nodejs.org/en/download/)
+- OBS [[Ref]](https://obsproject.com/download)
 
 ## Steps to run
 
