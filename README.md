@@ -8,10 +8,10 @@
 
 ### [React App](client/)
 
-- react, redux
+- react, redux, axios
 - Google API [[Ref]](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in)
 
-[Click here for more details](client/)
+[more...](client/)
 
 ### RTMP Server
 

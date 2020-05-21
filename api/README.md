@@ -30,14 +30,16 @@ http://localhost:3001
 
 ## Resources
 
-Has a single RESTful resource available.
+Has a single RESTful resource available:
 
 ### streams
 
 <!-- prettier-ignore -->
+<pre>
 GET    /streams <br>
 GET    /streams/:id <br>
 POST   /streams <br>
 PUT    /streams/:id <br>
 PATCH  /streams/:id <br>
 DELETE /streams/:id <br>
+</pre>

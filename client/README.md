@@ -5,8 +5,9 @@ This is the React Client for the live video streaming service
 ## Tools Used
 
 - react-js [[Ref]](https://reactjs.org/docs/getting-started.html)
-- redux, react-router-dom, redux-form
 - Google API [Ref](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in) [Script Location](https://apis.google.com/js/api.js)
+- redux, react-router-dom, redux-form
+- axios, redux-thunk
 - Semantics UI (_for CSS_) [[Ref]](https://semantic-ui.com/introduction/getting-started.html)
 
 Full list: [package.json](package.json)
@@ -70,6 +71,8 @@ You will also see any lint errors in the console.
     - [StreamShow](src/components/streams/StreamShow.js)
     - [StreamEdit](src/components/streams/StreamEdit.js)
     - [StreamDelete](src/components/streams/StreamDelete.js)
+  - apis
+    - [streams](src/apis/streams.js)
 
 ## Redux Components
 
