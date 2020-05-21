@@ -17,9 +17,9 @@
 ### [React App](client/)
 
 - react, redux, axios
+- flv.js
 - Google API [[Ref]](https://developers.google.com/identity/protocols/oauth2/scopes#google-sign-in)
-
-[more...](client/)
+- [more...](/client#streamy---react-client)
 
 ## Prerequisites
 
