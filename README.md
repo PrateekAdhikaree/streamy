@@ -33,3 +33,7 @@
 3. Starte OBS on your system and setup a scene with audio and video sources
 4. Start the [react app](client/#running-the-project)
 5. Navigate to [localhost:3000](http://localhost:3000) to access the app on a browser
+
+#### Credits
+
+Stephen Grider [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/)
