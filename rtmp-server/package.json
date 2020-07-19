@@ -9,6 +9,7 @@
   "author": "Prateek Adhikaree",
   "license": "ISC",
   "dependencies": {
-    "node-media-server": "^2.1.9"
+    "node-media-server": "^2.1.9",
+    "lodash": ">=4.17.19"
   }
 }
