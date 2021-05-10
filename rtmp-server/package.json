@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "node-media-server": "^2.1.9",
-    "lodash": ">=4.17.19"
+    "lodash": ">=4.17.21"
   }
 }
